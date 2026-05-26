@@ -21,5 +21,5 @@ The ultimate goal is to build rock-solid fundamentals before moving on to advanc
 | Date | Topic / Project Name | Description | Tech Used |
 
 | 25/05 | Profile Card | A simple, responsive user profile card component. | HTML, CSS Grid |
-| DD/MM | Example: Todo List | A basic interactive todo list application. | HTML, CSS, JS |
+| 26/05 | Product Cards | Build responsive product catalog with hover effects and ratings. | HTML, CSS, Font Awesome |
 
