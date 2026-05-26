@@ -1,0 +1,65 @@
+*{
+    box-sizing:border-box;
+    margin:0;
+    padding:0;
+}
+
+.cards{
+    display: flex;
+    flex-direction: row;
+    justify-content:center;
+    gap:30px;
+    flex-wrap:wrap;
+}
+
+.card{
+    min-height:500px;
+    width: 350px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: beige;
+    border-radius:12px;
+    transition:0.3s ease;
+}
+
+.card p{
+    text-align:center;
+    padding:0 20px;
+}
+
+.card:hover{
+    transform:translateY(-10px);
+    box-shadow:0 10px 20px rgba(0,0,0,0.2);
+}
+
+img{
+    width:220px;
+    height:220px;
+    object-fit:contain;
+    border: 1px solid rgb(174, 138, 6);
+    border-radius: 10px;
+}
+
+.rating{
+    color:gold;
+    display: flex;
+    flex-direction: row;
+    gap:4px;
+    padding-bottom:10px;
+}
+
+.buy-now{
+    background:#ff9800;
+    color:white;
+    border:none;
+    padding:10px 20px;
+    border-radius:6px;
+    cursor:pointer;
+    transition:0.3s ease;
+}
+
+.buy-now:hover{
+    background:#e68900;
+}
