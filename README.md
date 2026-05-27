@@ -21,5 +21,6 @@ The ultimate goal is to build rock-solid fundamentals before moving on to advanc
 | Date | Topic / Project Name | Description | Tech Used |
 
 | 25/05 | Profile Card | A simple, responsive user profile card component. | HTML, CSS Grid |
-| 26/05 | Product Cards | Build responsive product catalog with hover effects and ratings. | HTML, CSS, Font Awesome |
+| 26/05 | Product Cards | Build a responsive product catalog with hover effects and ratings. | HTML, CSS, Font Awesome |
+| 27/05 | Product Cards | A responsive startup landing page built using HTML and CSS. This project features a modern user interface with a navigation bar, hero section, feature cards, pricing section, and footer. | HTML, CSS, Font Awesome, Media Queries, Flexbox |
 
