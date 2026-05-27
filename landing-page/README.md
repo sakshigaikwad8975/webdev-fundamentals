@@ -26,12 +26,6 @@ A responsive startup landing page built using HTML and CSS. This project feature
 
 ---
 
-## Screenshot
-
-![Landing Page](screenshot.png)
-
----
-
 ## What I Learned
 
 - Creating structured webpage layouts
